@@ -1,6 +1,6 @@
 ![Banner decorativo do site](img/devstart-banner-git.png)
 
-Aqui foi um exercício passado em sala no *SENAC Cidade Alta* para treinar e avaliar o nível de CSS. Eu gostei bastante do resultado final e decidi publicar aqui. 
+Aqui foi um exercício passado em sala no *SENAC* para treinar e avaliar o nível de CSS. Eu gostei bastante do resultado final e decidi publicar aqui. 
 O resultado foi este site que pretendo incrementar mais lá na frente.
 
 ## FEATURES
